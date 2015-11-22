@@ -2,29 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>述昧评生</title>
-    <description>这里是林昕阳的博客。我会在这儿记录生活与工作。| 关于产品，代码，生活以及该死的抑郁症</description>
+    <description>这里是林昕阳的博客。我会在这儿记录生活与工作。| 关于产品，代码，生活</description>
     <link>http://linxy.me/</link>
     <atom:link href="http://linxy.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 22 Nov 2015 11:51:34 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2015 11:51:34 +0800</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2015 15:47:18 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 15:47:18 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>你好，博客</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Liftoff”&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>开始旅程</title>
+        <description>&lt;pre&gt;&lt;code&gt;没想到最终还是以这种形式开启了博客之旅。
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;一个开始&lt;/h2&gt;
+&lt;p&gt;从10月中旬听了前辈说一定要自己写博客，到学习git，部署jekyll，购买域名，熟悉编撰语法，到现在博客看起来还是荒芜之地，用了整整过了一个半月的时间才做出这个半成品。好在2015入冬一直失败，我至少在“凛冬”之前上线了。&lt;/p&gt;
 
-&lt;p&gt;没想到最终还是以这种形式开启了博客之旅。&lt;/p&gt;
+&lt;p&gt;让一个毫无代码基础的人学习建立自己的博客可是一件不容易的事，好在我多少有些极客情怀。博客的搭建使用了&lt;a href=&quot;http://huangxuan.me/&quot;&gt;Hux&lt;/a&gt;的博客模版，来源Jekyll，使用Markdown编辑。同时感谢很棒的前端工程师&lt;a href=&quot;http://loyalsoldier.me/&quot;&gt;刘炜贤&lt;/a&gt;的指导，为了不辜负这位水瓶男难得的&lt;strong&gt;热情&lt;/strong&gt;，上线后我会不定期地，尽量地，进行迭代，嗯。&lt;/p&gt;
+
+&lt;p&gt;关于名字，我将我的博客命名为诉眛评生这个独(zhuāng)特(bī)的名字，是希望自己能坚持将生活中，工作中的一切想法记录阐述出来。昧有“未知”的意思。因此博客名字就是“阐自己的未知以求解，评论自己的人生以获益”，正所谓没有装过逼的人生是无趣的。而在自己亲手搭建的博客中偷偷地装逼，就像在家里独自完成10000块拼图一样非常有成就感。&lt;/p&gt;
+
+&lt;p&gt;一直以来曾试着在各种平台写写东西，无奈自己是一个很忙（lǎng）的人。写文章对于我而言，并没有太大的含义，只不过当脑海中有些想法的时候，总想将其隆重些供奉在某一个地方，而不是草草地写在纸中了事。而很久没有写完整文章的我，也开始觉得对文字有些生疏了，多写写文章不是坏事。所以，建立博客，装着逼就能进步，何乐而不为。&lt;/p&gt;
+
+&lt;p&gt;我将用文字，照片等形式，记录我在做产品经理时的所做所想，以及在生活中遇到的点点滴滴。也欢迎与我一样都是产品人的同伴与我一起讨论。希望我们的坚持能终有一天有所收获。&lt;/p&gt;
+
+&lt;p&gt;欢迎来看我的拼图游戏。我叫林昕阳。产品人，文科极客，一个热爱跑偏与折腾的人。&lt;/p&gt;
 
 &lt;p&gt;—— Linxy&lt;/p&gt;
-
 </description>
         <pubDate>Sun, 08 Nov 2015 22:09:00 +0800</pubDate>
-        <link>http://linxy.me/2015/11/08/hello-2015/</link>
-        <guid isPermaLink="true">http://linxy.me/2015/11/08/hello-2015/</guid>
+        <link>http://linxy.me/2015/11/08/hello-blog/</link>
+        <guid isPermaLink="true">http://linxy.me/2015/11/08/hello-blog/</guid>
         
         <category>Life</category>
         
