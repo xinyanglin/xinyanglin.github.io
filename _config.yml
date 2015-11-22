@@ -65,8 +65,8 @@ sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/abo
 
 # Sidebar settings
 sidebar:   ture                         # whether or not using Sidebar.
-sidebar-about-description: "这里会用二维码"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "你可以通过此找到我"
+sidebar-avatar:  img/avatar-wechat.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
