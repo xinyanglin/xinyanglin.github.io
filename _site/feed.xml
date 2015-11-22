@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>述昧评生</title>
+    <description>这里是林昕阳的博客。我会在这儿记录生活与工作。| 关于产品，代码，生活以及该死的抑郁症</description>
+    <link>http://linxy.me/</link>
+    <atom:link href="http://linxy.me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 22 Nov 2015 11:10:51 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 11:10:51 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>你好，博客</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Liftoff”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;##一个开始&lt;/p&gt;
+
+&lt;p&gt;没想到最终还是以这种形式开启了博客之旅。&lt;/p&gt;
+
+&lt;p&gt;—— Linxy&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Nov 2015 22:09:00 +0800</pubDate>
+        <link>http://linxy.me/2015/11/08/hello-2015/</link>
+        <guid isPermaLink="true">http://linxy.me/2015/11/08/hello-2015/</guid>
+        
+        <category>Life</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

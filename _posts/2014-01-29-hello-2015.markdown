@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "你好，博客"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-11-08 14:09:00
+author:     "Linxy"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Life
+---
+
+> “Liftoff”
+
+
+##一个开始
+
+没想到最终还是以这种形式开启了博客之旅。
+
+—— Linxy  
+
+
