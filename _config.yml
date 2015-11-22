@@ -58,7 +58,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 # Sidebar settings
 sidebar: ture                         # whether or not using Sidebar.
 sidebar-about-description: "你可以通过此找到我"
-sidebar-avatar: img/avatar-findme.jpg 
+sidebar-avatar: /img/avatar-findme.jpg 
 
 
 # Featured Tags
